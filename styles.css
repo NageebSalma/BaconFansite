@@ -2,6 +2,9 @@ body{
   background-image: url("https://wallpapers-all.com/uploads/posts/2017-04/13_bacon.jpg");
   background-color: #ffb26b;
 }
+.baconBoy{
+  border-radius: 100%;
+}
 table{
   margin-left: auto;
   margin-right: auto;
@@ -68,9 +71,4 @@ h6{
   color: blue;
   text-align: right;
 
-}
-img{
-}
-.baconBoy{
-  border-radius: 100%;
 }
